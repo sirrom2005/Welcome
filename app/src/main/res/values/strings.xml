@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string-array name="intro_title">
+        <item>Title 1</item>
+        <item>Hello World</item>
+        <item>Header</item>
+        <item>Buy Travel</item>
+    </string-array>
+    <string-array name="intro_body">
+        <item>Hello World from section,\nabout 2 to 3 lines of text will\nbe here, this text section 1</item>
+        <item>Hello World from section,\nabout 2 to 3 lines of text will\nbe here, this text section 2</item>
+        <item>Hello World from section,\nabout 2 to 3 lines of text will\nbe here, this text section 3</item>
+        <item>Hello World from section,\nabout 2 to 3 lines of text will\nbe here, this text section 4</item>
+    </string-array>
+    <string-array name="btn_text">
+        <item>Next</item>
+        <item>Next</item>
+        <item>Next</item>
+        <item>Let\'s Begin</item>
+    </string-array>
+</resources>
